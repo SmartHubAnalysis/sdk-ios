@@ -1,0 +1,168 @@
+{
+  "type": "snapshot_request",
+  "payload": {
+    "config": {
+      "classes": [
+        {
+          "name": "NSObject",
+          "superclass": null,
+          "properties": [
+          ]
+        },
+        {
+          "name": "UIScreen",
+          "superclass": "NSObject",
+          "properties": [
+            {
+              "name": "bounds",
+              "type": "CGRect",
+              "readonly": true
+            },
+            {
+              "name": "applicationFrame",
+              "type": "CGRect",
+              "readonly": true
+            }
+          ]
+        },
+        {
+          "name": "UIView",
+          "superclass": "UIResponder",
+          "properties": [
+            {
+              "name": "sendata_enableAppClick",
+              "key": "enableAppClick",
+              "type": "BOOL",
+              "use_kvc": false
+            },
+            {
+              "name": "sendata_subElements",
+              "key": "subelements",
+              "type": "NSArray",
+              "use_kvc": false
+            },
+            {
+              "name": "sendata_elementValidContent",
+              "key": "element_content",
+              "type": "NSString",
+              "use_kvc": false
+            },
+            {
+                "name": "sendata_elementPath",
+                "key": "element_path",
+                "type": "NSString",
+                "use_kvc": false
+            },
+            {
+                "name": "sendata_elementSelector",
+                "key": "element_selector",
+                "type": "NSString",
+                "use_kvc": false
+            },
+            {
+              "name": "sendata_elementPosition",
+              "key": "element_position",
+              "type": "NSString",
+              "use_kvc": false
+            },
+            {
+              "name": "sendata_frame",
+              "key": "frame",
+              "type": "CGRect",
+              "use_kvc": false
+            },
+            {
+              "name": "jjf_fingerprintVersion",
+              "type": "NSString",
+              "use_kvc": false
+            },
+            {
+              "name": "sendataAnalyticsViewID",
+              "type": "NSString",
+              "use_kvc": false
+            },
+            {
+              "name": "restorationIdentifier",
+              "type": "NSString"
+            },
+            {
+              "name": "sendata_screenName",
+              "key": "screen_name",
+              "type": "NSString",
+              "use_kvc": false
+            },
+            {
+              "name": "sendata_title",
+              "key": "title",
+              "type": "NSString",
+              "use_kvc": false
+            },
+            {
+              "name": "sendata_isFromWeb",
+              "key": "is_h5",
+              "type": "BOOL",
+              "use_kvc": false
+            },
+            {
+              "name": "sendata_isListView",
+              "key": "is_list_view",
+              "type": "BOOL",
+              "use_kvc": false
+            }
+          ]
+        },
+        {
+          "name": "SAJSTouchEventView",
+          "superclass": "UIView",
+          "properties": [
+              {
+                "name": "url",
+                "type": "NSString"
+              },
+              {
+                "name": "title",
+                "key": "h5_title",
+                "type": "NSString"
+              },
+              {
+                  "name": "sendata_elementSelector",
+                  "key": "element_selector",
+                  "type": "NSString",
+                  "use_kvc": false
+              }
+          ]
+        },
+        {
+          "name": "UIScrollView",
+          "superclass": "UIView",
+          "properties": [
+            {
+              "name": "contentOffset",
+              "type": "CGPoint"
+            },
+            {
+              "name": "contentSize",
+              "type": "CGSize"
+            }
+          ]
+        },
+        {
+          "name": "UIViewController",
+          "superclass": "UIResponder",
+          "properties": [
+            {
+              "name": "sendata_subElements",
+              "key": "subelements",
+              "type": "NSArray",
+              "use_kvc": false
+            },
+            {
+              "name": "restorationIdentifier",
+              "type": "NSString"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
