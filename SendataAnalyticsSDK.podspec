@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "SendataAnalyticsSDK"
-  s.version      = "v1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "The official iOS SDK of Sendata Analytics."
   s.homepage     = "https://github.com/SmartHubAnalysis/sdk-ios"
   s.source       = { :git => "https://github.com/SmartHubAnalysis/sdk-ios.git", :tag => "v#{s.version}" }
