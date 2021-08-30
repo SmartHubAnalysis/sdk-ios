@@ -24,7 +24,7 @@
 		82D7393226D0A2570054EC4A /* DebugMode in Resources */ = {isa = PBXBuildFile; fileRef = 82D7392226D0A2570054EC4A /* DebugMode */; };
 		82D7393326D0A2570054EC4A /* DeviceOrientation in Resources */ = {isa = PBXBuildFile; fileRef = 82D7392326D0A2570054EC4A /* DeviceOrientation */; };
 		82D7393426D0A2570054EC4A /* Location in Resources */ = {isa = PBXBuildFile; fileRef = 82D7392426D0A2570054EC4A /* Location */; };
-		82D7393626D0A3000054EC4A /* SmartHubAnalysis.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 82D7393526D0A3000054EC4A /* SmartHubAnalysis.podspec */; };
+		82D7393626D0A3000054EC4A /* SendataAnalyticsSDK.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 82D7393526D0A3000054EC4A /* SendataAnalyticsSDK.podspec */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -47,7 +47,7 @@
 		82D7392226D0A2570054EC4A /* DebugMode */ = {isa = PBXFileReference; lastKnownFileType = folder; path = DebugMode; sourceTree = "<group>"; };
 		82D7392326D0A2570054EC4A /* DeviceOrientation */ = {isa = PBXFileReference; lastKnownFileType = folder; path = DeviceOrientation; sourceTree = "<group>"; };
 		82D7392426D0A2570054EC4A /* Location */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Location; sourceTree = "<group>"; };
-		82D7393526D0A3000054EC4A /* SmartHubAnalysis.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = SmartHubAnalysis.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		82D7393526D0A3000054EC4A /* SendataAnalyticsSDK.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = SendataAnalyticsSDK.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,7 +64,7 @@
 		82D7390026D0A20C0054EC4A = {
 			isa = PBXGroup;
 			children = (
-				82D7393526D0A3000054EC4A /* SmartHubAnalysis.podspec */,
+				82D7393526D0A3000054EC4A /* SendataAnalyticsSDK.podspec */,
 				82D7390C26D0A20C0054EC4A /* SendataAnalyticsSDK */,
 				82D7390B26D0A20C0054EC4A /* Products */,
 			);
@@ -172,7 +172,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				82D7392D26D0A2570054EC4A /* Encrypt in Resources */,
-				82D7393626D0A3000054EC4A /* SmartHubAnalysis.podspec in Resources */,
+				82D7393626D0A3000054EC4A /* SendataAnalyticsSDK.podspec in Resources */,
 				82D7393426D0A2570054EC4A /* Location in Resources */,
 				82D7392C26D0A2570054EC4A /* AppPush in Resources */,
 				82D7392626D0A2570054EC4A /* WebView in Resources */,
