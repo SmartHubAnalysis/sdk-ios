@@ -30,7 +30,7 @@
 |--------------|----------------------------------|
 | **SDK名称**  | 深演｜品友SDK（iOS版）           |
 | **开发者**   | 深演智能                         |
-| **包名**     | SendataAnalyticsSDK                 |
+| **包名**     | [SendataAnalyticsSDK](https://cocoapods.org/pods/SendataAnalyticsSDK)                 |
 | **SDK版本**  | V1.0.1                           |
 | **更新时间** | 2025年7月22日                    |
 | **SDK大小**  | 541 KB                           |
